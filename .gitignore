@@ -1,2 +1,5 @@
 .DS_Store
+data_preprocessing.py
+.ipynb_checkpoints/
+.venv/
 raw_data/
